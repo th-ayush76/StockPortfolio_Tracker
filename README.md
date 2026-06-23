@@ -16,5 +16,4 @@ A Python-based application designed to help you track your investments, monitor 
    python StockPortfolioTracker.py
 
    ----
-
 Developed By Ayush
